@@ -5,3 +5,10 @@ character has to jump up parts of it. Trees need to be denser around perimeter s
 off the map hehe oops.
 
 Uploaded Ver 3 - Includes world models in the assets to be arranged on the map
+
+Ver 6 - Includes all models except slide placed into the map and the lake created.
+Need to remodel slide wont import right and I cant fix it :(
+when player enters lake itll make screen blurry
+box colliders on the house to minimize clipping inside it
+
+Ignore the cave I have to fix this lol
