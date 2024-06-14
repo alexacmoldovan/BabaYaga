@@ -1,0 +1,25 @@
+Enemy Health
+Floor = 50
+Window = 25
+Door = 25
+Lantern = 50
+Chimney = 100
+Rooftop = 500
+Total Enemy Health = 750
+
+Extra Enemies
+Circle Monster = 100
+Sphere Monster = 50
+
+Potion Damage
+Red Potion = 10
+Player Receives 25 Red Potions
+Damage Total = 250
+ 
+Green Potion = 20
+Player Receives 10 Green Damage
+Damage Total = 200
+
+Blue Potion = 50
+Player Receives 6 Blue Potions
+Damage Total = 300
