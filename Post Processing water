@@ -1,0 +1,18 @@
+Water 
+
+create layer where it sayd default 
+call this layer "post processing"
+  
+Add box colllider to entire area
+  Check box that says "is trigger"
+
+  Add post processing component
+make profile withing post processing the game object you are using (box collider)
+
+Put the box collider on the post processing layer
+
+Go to FPS character
+Make sure the character is on post processing layer (he should be from what i did)
+add post processing component
+change profile to fps controller
+change layer underneath that to post processing
